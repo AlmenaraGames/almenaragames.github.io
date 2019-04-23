@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("out",["Variable"],[["outOfRange",,[["AlmenaraGames.MultiAudioSource",,,,0,"File:Scripts/MultiAudioSource.cs:AlmenaraGames.MultiAudioSource.outOfRange","CSharpClass:AlmenaraGames.MultiAudioSource:outOfRange"]]]]);

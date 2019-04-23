@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("ave",["Property"],[["AveragePosition",,[["AlmenaraGames.MultiAudioSource",,,,0,"File:Scripts/MultiAudioSource.cs:AlmenaraGames.MultiAudioSource.AveragePosition","CSharpClass:AlmenaraGames.MultiAudioSource:AveragePosition"]]]]);

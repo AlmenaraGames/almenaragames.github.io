@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("ani",["Property"],[["AnimatorStateInfo",,[["AlmenaraGames.MLPASACustomPlayMethodParameters",,,,0,"File:Animator/MLPASPlayMethodParameters.cs:AlmenaraGames.MLPASACustomPlayMethodParameters.AnimatorStateInfo","CSharpClass:AlmenaraGames.MLPASACustomPlayMethodParameters:AnimatorStateInfo"]]]]);

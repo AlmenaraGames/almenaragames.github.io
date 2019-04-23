@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("per",["Property"],[["PersistsBetweenScenes",,[["AlmenaraGames.MultiAudioSource",,,,0,"File:Scripts/MultiAudioSource.cs:AlmenaraGames.MultiAudioSource.PersistsBetweenScenes","CSharpClass:AlmenaraGames.MultiAudioSource:PersistsBetweenScenes"]]]]);

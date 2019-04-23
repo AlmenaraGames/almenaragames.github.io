@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("boo",["Property"],[["BoolParameter",,[["AlmenaraGames.MLPASACustomPlayMethodParameters.CustomParams",,,,0,"File:Animator/MLPASPlayMethodParameters.cs:AlmenaraGames.MLPASACustomPlayMethodParameters.CustomParams.BoolParameter","CSharpClass:AlmenaraGames.MLPASACustomPlayMethodParameters.CustomParams:BoolParameter"]]]]);

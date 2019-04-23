@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("isp",["Property"],[["IsPlaying",,[["AlmenaraGames.MultiAudioSource",,,,0,"File:Scripts/MultiAudioSource.cs:AlmenaraGames.MultiAudioSource.IsPlaying","CSharpClass:AlmenaraGames.MultiAudioSource:IsPlaying"]]]]);

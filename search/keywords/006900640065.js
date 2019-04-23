@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("ide",["Variable"],[["identifier",,[["AlmenaraGames.AudioObject",,,,0,"File:Scripts/Objects/AudioObject.cs:AlmenaraGames.AudioObject.identifier","CSharpClass:AlmenaraGames.AudioObject:identifier"]]]]);

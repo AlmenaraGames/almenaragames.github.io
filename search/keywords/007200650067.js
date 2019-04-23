@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("reg",["Function"],[["RegisterCustomMethod",,[["AlmenaraGames.MLPASAnimatorSFXController",,,,0,"File:Animator/MLPASAnimatorSFXController.cs:AlmenaraGames.MLPASAnimatorSFXController.RegisterCustomMethod","CSharpClass:AlmenaraGames.MLPASAnimatorSFXController:RegisterCustomMethod"]]]]);

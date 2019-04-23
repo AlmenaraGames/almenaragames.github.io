@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("isr",["Function"],[["IsRuntimeIdentifierDefined",,[["AlmenaraGames.MultiAudioManager",,,,0,"File:Scripts/MultiAudioManager.cs:AlmenaraGames.MultiAudioManager.IsRuntimeIdentifierDefined","CSharpClass:AlmenaraGames.MultiAudioManager:IsRuntimeIdentifierDefined"]]]]);

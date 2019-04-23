@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("val",["Enumeration"],[["ValueToOverride",,[["AlmenaraGames.MLPASAnimatorSFXController",,,,0,"File:Animator/MLPASAnimatorSFXController.cs:AlmenaraGames.MLPASAnimatorSFXController.ValueToOverride","CSharpClass:AlmenaraGames.MLPASAnimatorSFXController:ValueToOverride"]]]]);

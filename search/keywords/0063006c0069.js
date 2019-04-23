@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("cli",["Variable"],[["clips",,[["AlmenaraGames.AudioObject",,,,0,"File:Scripts/Objects/AudioObject.cs:AlmenaraGames.AudioObject.clips","CSharpClass:AlmenaraGames.AudioObject:clips"]]]]);

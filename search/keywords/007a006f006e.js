@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("zon",["Enumeration"],[["ZoneType",,[["AlmenaraGames.MultiReverbZone",,,,0,"File:Scripts/MultiReverbZone.cs:AlmenaraGames.MultiReverbZone.ZoneType","CSharpClass:AlmenaraGames.MultiReverbZone:ZoneType"]]]]);

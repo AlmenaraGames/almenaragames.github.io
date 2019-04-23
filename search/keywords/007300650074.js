@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("set",["Function"],[["SetStateBehaviourCustomPosition",,[["AlmenaraGames.MLPASAnimatorSFXController",,,,0,"File:Animator/MLPASAnimatorSFXController.cs:AlmenaraGames.MLPASAnimatorSFXController.SetStateBehaviourCustomPosition","CSharpClass:AlmenaraGames.MLPASAnimatorSFXController:SetStateBehaviourCustomPosition"]]]]);

@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("unr",["Function"],[["UnregisterCustomMethod",,[["AlmenaraGames.MLPASAnimatorSFXController",,,,0,"File:Animator/MLPASAnimatorSFXController.cs:AlmenaraGames.MLPASAnimatorSFXController.UnregisterCustomMethod","CSharpClass:AlmenaraGames.MLPASAnimatorSFXController:UnregisterCustomMethod"]]]]);

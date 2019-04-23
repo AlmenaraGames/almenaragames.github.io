@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("ass",["Function"],[["AssignRuntimeIdentifierAudioObject",,[["AlmenaraGames.MultiAudioManager",,,,0,"File:Scripts/MultiAudioManager.cs:AlmenaraGames.MultiAudioManager.AssignRuntimeIdentifierAudioObject","CSharpClass:AlmenaraGames.MultiAudioManager:AssignRuntimeIdentifierAudioObject"]]]]);

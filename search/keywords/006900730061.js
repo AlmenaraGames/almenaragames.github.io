@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("isa",["Function"],[["IsAudioObjectPlaying",,[["AlmenaraGames.MultiAudioManager",,,,0,"File:Scripts/MultiAudioManager.cs:AlmenaraGames.MultiAudioManager.IsAudioObjectPlaying","CSharpClass:AlmenaraGames.MultiAudioManager:IsAudioObjectPlaying"]]]]);

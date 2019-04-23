@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("sha",["Variable"],[["shape",,[["AlmenaraGames.MultiReverbZone",,,,0,"File:Scripts/MultiReverbZone.cs:AlmenaraGames.MultiReverbZone.shape","CSharpClass:AlmenaraGames.MultiReverbZone:shape"]]]]);
